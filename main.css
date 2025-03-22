@@ -1,0 +1,12 @@
+#text{
+  text-align: right;
+}
+#imag{
+  background: url('some.png')
+   no-repeat left top ;
+   height: 100vh;
+   width: 100%;
+   margin: 0;
+
+   padding: 0;
+}
